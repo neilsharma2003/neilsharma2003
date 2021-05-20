@@ -6,7 +6,7 @@ I'm Neil, a graduating IB Certificate student at Maple High School heading into 
 
 📫 How to reach me:
 
-   Feel free to send me an email: [Email me](sharma.neil2003@gmail.com)
+   Feel free to send me an email: [sharma.neil2003@gmail.com](mailto:sharma.neil2003@gmail.com)
    
    Add me on Linkedin: [Linkedin](https://www.linkedin.com/in/neil-sharma123/)
  
