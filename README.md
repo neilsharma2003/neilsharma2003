@@ -3,8 +3,8 @@
 I'm Neil, a graduating IB Certificate student at Maple High School heading into Computer Science + Finance at the University of Waterloo.
 🌱 I’m currently learning front-end frameworks with the eventual goal of becoming proficient in full-stack web development. 
 📫 How to reach me:
-   [Email me](sharma.neil2003@gmail.com)
-   [Linkedin](https://www.linkedin.com/in/neil-sharma123/)
+   Feel free to send me an email:[Email me](sharma.neil2003@gmail.com)
+   Add me on Linkedin: [Linkedin](https://www.linkedin.com/in/neil-sharma123/)
  
 <!--
 **neilsharma2003/neilsharma2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
