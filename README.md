@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Neil, a graduating IB Certificate student at Maple High School heading into Computer Science + Finance at the University of Waterloo.
+I'm Neil, a 1B Computer Science + Finance at the University of Waterloo.
 
 🌱 I’m currently learning front-end frameworks with the eventual goal of becoming proficient in full-stack web development. 
 
