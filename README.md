@@ -5,7 +5,7 @@ I'm Neil, a 2B Computer Science student at the University of Waterloo.
 
 📫 How to reach me:
 
-   Feel free to send me an email: [sharma.neil2003@gmail.com](mailto:sharma.neil2003@gmail.com)
+   Feel free to send me an email: [n243shar@uwaterloo.ca](mailto:n243shar@uwaterloo.ca)
    
    Add me on Linkedin: [Linkedin](https://www.linkedin.com/in/neil-sharma123/)
  
