@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Neil, a 2B Computer Science student at the University of Waterloo.
+I'm Neil, a 3A Computer Science student at the University of Waterloo.
 
 
 📫 How to reach me:
