@@ -6,9 +6,7 @@ I'm Neil, a 3A Computer Science student at the University of Waterloo.
 📫 How to reach me:
 
    Feel free to send me an email: [n243shar@uwaterloo.ca](mailto:n243shar@uwaterloo.ca)
-   
-   Add me on Linkedin: [Linkedin](https://www.linkedin.com/in/neil-sharma123/)
- 
+    
 <!--
 **neilsharma2003/neilsharma2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
